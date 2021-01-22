@@ -1,0 +1,2 @@
+# View-Bot-Working-2021
+This view bot, will work in 2021. Where there is an x, you can put your time there, in seconds, that is how long it will wait before it will refresh. There is also a plays where you put the link, make sure you get the link with the "https" and don't replace or remove any of the code. This code will get you around 50 views. For more views you can just copy paste the code that is repeating in the bottom like how I did it.
